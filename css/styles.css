@@ -66,6 +66,11 @@ html, body
   float: right;
 }
 
+.klaviyo {
+  height: 180px;
+  width: 280px;
+}
+
 .tiger {
   height: 180px;
   width: 280px;
